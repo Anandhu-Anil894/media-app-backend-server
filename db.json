@@ -1,0 +1,32 @@
+{
+  "allVideos": [
+    {
+      "Caption": "Maaraapp",
+      "ImgUrl": "https://i.ytimg.com/vi/1blI7Jy6QDE/maxresdefault.jpg",
+      "Link": "https://www.youtube.com/embed/1blI7Jy6QDE?si=TpDeNoL3Qn5Bat2Z",
+      "id": 1
+    }
+  ],
+  "watch-history": [
+    {
+      "Caption": "Maaraapp",
+      "Link": "https://www.youtube.com/embed/1blI7Jy6QDE?si=TpDeNoL3Qn5Bat2Z",
+      "timeStamp": "11/11/24, 04:16:28 PM",
+      "id": 1
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "maaraapp",
+      "allvideos": [
+        {
+          "Caption": "Maaraapp",
+          "ImgUrl": "https://i.ytimg.com/vi/1blI7Jy6QDE/maxresdefault.jpg",
+          "Link": "https://www.youtube.com/embed/1blI7Jy6QDE?si=TpDeNoL3Qn5Bat2Z",
+          "id": 1
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
